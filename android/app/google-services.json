@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538856819358",
+    "project_id": "journalapp-851cb",
+    "storage_bucket": "journalapp-851cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538856819358:android:27e64554edd661fdd1098f",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDalM7VVsjWknjbKjQL6w59LH2XpPSqllw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
